@@ -3,7 +3,7 @@ using Microsoft.Extensions.DependencyInjection;
 using System.IO;
 using System.Windows;
 
-namespace ADO.NET_TASK_3;
+namespace adohw3;
 public partial class App : Application
 {
     public IConfiguration Configuration { get; private set; }
