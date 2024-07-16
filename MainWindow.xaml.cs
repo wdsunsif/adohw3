@@ -8,7 +8,7 @@ using System.Windows.Documents;
 using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
-namespace ADO.NET_TASK_3;
+namespace adohw3;
 public partial class MainWindow : Window,INotifyPropertyChanged
 {
     public ObservableCollection<string> Authors { get; set; } = new();
