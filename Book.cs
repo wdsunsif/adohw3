@@ -1,4 +1,4 @@
-﻿namespace ADO.NET_TASK_3;
+﻿namespace adohw3;
 public class Book
 {
     public int Id { get; set; }
